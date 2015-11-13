@@ -2,15 +2,16 @@
     <channel>
         <title><![CDATA[Michael Day]]></title>
         <description><![CDATA[Michael Day]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/michael-day/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 Nov 2015 20:16:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 13 Nov 2015 20:28:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/michael-day/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <link>undefined52cc854b-8955-4c27-81e2-0260dbb2a147/index.html</link>
+            <title><![CDATA[Let's start with a heart attack.]]></title>
+            <description><![CDATA[<article><h1>Let's start with a heart attack.</h1><p>Some stories end with a heart attack. Not this one.</p></article>]]></description>
+            <link>https://thegrid.ai/michael-day/52cc854b-8955-4c27-81e2-0260dbb2a147/index.html</link>
             <guid isPermaLink="false">52cc854b-8955-4c27-81e2-0260dbb2a147</guid>
-            <pubDate>Fri, 13 Nov 2015 20:16:06 GMT</pubDate>
+            <pubDate>Fri, 13 Nov 2015 20:28:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
