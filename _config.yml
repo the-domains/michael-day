@@ -1,0 +1,23 @@
+name: Michael Day
+favicon: null
+layout_spectrum: 0.8682124889455736
+typography_spectrum: 0.6700399422552437
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.7580302637070417
+  lightness: 0.6390841389074922
+  saturation: 0.7846366497687995
+  rhythmicContrast: 0.13249820843338966
+purpose: []
